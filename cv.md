@@ -3,10 +3,10 @@ e-mail: pmila1010@gmail.com
 ## Professional skills:
 -	HTML;
 -	CSS;
--	Bootstrap;
 -	Sass;
 -	JavaScript;
 -	jQuery;
+-	Bootstrap;
 -	gulp;
 - Figma;
 -	Photoshop.  
