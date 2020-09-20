@@ -9,11 +9,10 @@ e-mail: pmila1010@gmail.com
 -	jQuery;
 -	gulp;
 - Figma;
--	Photoshop.
+-	Photoshop.  
 ## Work experience:
-From 2020 I am working on my own projects: convert PSD, figma to HTML.
+From 2020 I am working on my own projects: convert PSD, figma to HTML.  
 ## Language knowledge:
 English - intermediate level;
 Russian - fluent;
 Ukrainian - native.
-
